@@ -11,7 +11,7 @@ To that end, I'm going to list a few things that I've done in the past that help
 - Whatever operating system you run probably has some sort of networking. Plan-9, AIX, Commodore64, you're good to go. Many of the tools listed below might be OS-specific, but there are almost always alternatives or tools that provide the same functionality. That being said, I will focus primarily on Linux, then MacOS, then Windows in that order. Unless mentioned, assume the tool is for Linux.  
 
 ##Cheap Device
-D-Link DIR-300 - this can be had at a local Staples for about $28 last I checked. If not, have a look at the [DD-WRT list or supported devices](http://www.dd-wrt.com/wiki/index.php/Supported_Devices#D-Link) and find one you can source local for about $30 
+D-Link DIR-300 - this can be had at a local Staples for about $28 last I checked. If not, have a look at the [DD-WRT list or supported devices](http://www.dd-wrt.com/wiki/index.php/Supported_Devices#D-Link) and find one you can source locally for about $30 
 
 ##Build Your Own
 There's always the option of building your own router using an old computer and a supported wireless adapter. I won't cover all of the options here, but often an old laptop with a wireless USB dongle is enough. I'd suggest Ubuntu as a start, but if you're feeling adventurous, a server running [Vyatta (can be a VM)](http://vyos.net/wiki/Main_Page), [Sophos UTM (Previously Astaro, can be VM)](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx) or [ClearOS (can be a VM)](http://www.clearfoundation.com/#clearfoundation-community). 
