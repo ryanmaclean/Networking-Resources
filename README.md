@@ -4,18 +4,18 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 #Networking
 
 ##Tools
--iptraf eth0
--mtr 8.8.8.8
--rancid
--screen /dev/ttyS1 9200,cs8
--wireshark
--tcpdump
--nmap
--nc
--multiping
--PingPlotter (not free)
--sipcalc (subnet calc)
--dig
+- iptraf eth0
+- mtr 8.8.8.8
+- rancid
+- screen /dev/ttyS1 9200,cs8
+- wireshark
+- tcpdump
+- nmap
+- nc
+- multiping
+- PingPlotter (not free)
+- sipcalc (subnet calc)
+- dig
 
 ##Online Tools
 - [DNS Stuff](http://www.dnsstuff.com/)
