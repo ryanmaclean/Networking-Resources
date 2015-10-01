@@ -33,6 +33,7 @@ A collections of (mostly) free tools. Where not specified, these will be free an
 - [The Dude Network Mapper (Windows-only, free)](http://www.mikrotik.com/thedude)
 - [LucidChart (SaSS Fremium)](https://www.lucidchart.com/)
 - [Visio (Windows, $$$, de facto standard unfortunately)](https://products.office.com/en-ca/visio/visio-professional-2013-free-trial-flowchart-software)
+- [yED (Free, Mac/Win/Linux)](http://www.yworks.com/en/products/yfiles/yed/)
 
 ###Raw Traffic
 - wireshark - [User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
