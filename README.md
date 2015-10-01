@@ -34,6 +34,7 @@ If you end up in a datacenter, dealing with physical cables, you'll want to lear
 - [Juniper Training](https://learningportal.juniper.net/juniper/user_courses.aspx)
 - [Linux Netowkring Howto](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
 - [Gentoo Networking Guide (replace emerge with your package manager :)](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
+- [APC Datacenter University](http://energy.schneideruniversities.com/)
 
 ##Config Management
 - [Chef Cisco Cookbook for NXOS](https://supermarket.chef.io/cookbooks/cisco-cookbook)
