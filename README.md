@@ -1,3 +1,6 @@
+# Networking-Reources
+Resources for those beginning networking. Made for the DevOps crowd but (hopefully) should really be useful for anyone.
+
 #Networking
 
 ##Tools
@@ -28,5 +31,5 @@ Juniper: https://kb.juniper.net/InfoCenter/index?page=home
 Riverbed: https://supportkb.riverbed.com/support/index?page=home
 
 ##Free Training
-- [MS Networking Essentials](https://www.microsoftvirtualacademy.com/en-us/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382)
-- [Juniper Training](https://learningportal.juniper.net/juniper/user_courses.aspx)
+[MS Networking Essentials](https://www.microsoftvirtualacademy.com/en-us/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382)
+[Juniper Training](https://learningportal.juniper.net/juniper/user_courses.aspx)
