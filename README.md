@@ -4,7 +4,7 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 #Networking
 
 ##Tools
-- iptraf eth0
+- iptraf - Command Line IP Traffic Monitor - [IPTraf User's Guide](http://iptraf.seul.org/2.7/manual.html)
 - mtr 8.8.8.8
 - rancid
 - screen /dev/ttyS1 9200,cs8
