@@ -1,6 +1,21 @@
 # Networking-Resources
 Resources for those beginning networking. Made for the DevOps crowd but (hopefully) should really be useful for anyone.
 
+##Where to Start
+I honestly think the best place to start would be to buy a new router/switch/firewall combo, install DD-WRT on it and place it between yourself and the internet. I'm sure you can think of a powerful motivator that will force you to learn how to set it up properly before you get any access going. Things like: Netflix, Gmail, Twitter, heck maybe even something like Grindr :)
+
+To that end, I'm going to list a few things that I've done in the past that helped me, but expect to get suggestions as to other ways of aquiring cheap or free hardware to get you going. 
+
+1) If your ISP has given you a device to use on their network, this isn't what you'll want to work with, even if you can. 
+2) Second: just because something has a long feature list and supports IEEE 802.11super doesn't mean you'll need to pay $200 USD and up for it... let's keep it simple! 
+3) Whatever operating system you run probably has some sort of networking. Plan-9, AIX, Commodore64, you're good to go. Many of the tools listed below might be OS-specific, but there are almost always alternatives or tools that provide the same functionality. That being said, I will focus primarily on Linux, then MacOS, then Windows in that order. Unless mentioned, assume the tool is for Linux.  
+
+##Cheap Device
+D-Link DIR-300 - this can be had at a local Staples for about $28 last I checked. If not, have a look at the [DD-WRT list or supported devices](http://www.dd-wrt.com/wiki/index.php/Supported_Devices#D-Link) and find one you can source local for about $30 
+
+##Build Your Own
+There's always the option of building your own router using an old computer and a supported wireless adapter. I won't cover all of the options here, but often an old laptop with a wireless USB dongle is enough. I'd suggest Ubuntu as a start, but if you're feeling adventurous, a server running [Vyatta (can be a VM)](http://vyos.net/wiki/Main_Page), [Sophos UTM (Previously Astaro, can be VM)](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx) or [ClearOS (can be a VM)](http://www.clearfoundation.com/#clearfoundation-community). 
+
 ##Tools
 - iptraf - Command Line IP Traffic Monitor - [IPTraf User's Guide](http://iptraf.seul.org/2.7/manual.html)
 - [ntopng - Web-based Traffic Monitoring](https://github.com/ntop/ntopng)
