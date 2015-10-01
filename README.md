@@ -8,6 +8,7 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 - [Linux Netowkring Howto](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
 - [Gentoo Networking Guide (replace emerge with your package manager :)](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
 - [APC Datacenter University](http://energy.schneideruniversities.com/)
+- [Ops School Networking 101](http://www.opsschool.org/en/latest/networking_101.html)
 
 ##Guides
 - [Guide to Port Forwarding with iptables from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-forward-ports-through-a-linux-gateway-with-iptables)
