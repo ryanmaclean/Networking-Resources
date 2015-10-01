@@ -6,8 +6,8 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 ##Tools
 - iptraf - Command Line IP Traffic Monitor - [IPTraf User's Guide](http://iptraf.seul.org/2.7/manual.html)
 - mtr - My TraceRoute, Console Alternative to Pingplot [Diagnosing Issues with MTR](https://www.linode.com/docs/networking/diagnostics/diagnosing-network-issues-with-mtr)
-- rancid
-- screen /dev/ttyS1 9200,cs8
+- rancid - Open Source Network Configuration Management [Howto: Network Backups with RANCID](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch1_:_Network_Backups_With_Rancid)
+- screen - Useful for Serial Connections as Well!
 - wireshark - [User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
 - tcpdump - [SANS Institute TCP Dump Primer](https://www.giac.org/paper/gsec/3489/beginners-guide-tcpdump/105700)
 - nmap - [Nmap from Beginner to Advanced (InfoSec)](http://resources.infosecinstitute.com/nmap/)
@@ -42,4 +42,4 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 - [Chef Cisco Cookbook for NXOS](https://supermarket.chef.io/cookbooks/cisco-cookbook)
 - [JPupper for Junos/Puppet](https://downloads.puppetlabs.com/junos/2.0R1.1/)
 - [rConfig Open Source Netowrk Config Management](http://www.rconfig.com/)
-- 
+- [Arch Wiki Working with the Serial Console](https://wiki.archlinux.org/index.php/Working_with_the_serial_console)
