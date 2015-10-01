@@ -5,7 +5,7 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 
 ##Tools
 - iptraf - Command Line IP Traffic Monitor - [IPTraf User's Guide](http://iptraf.seul.org/2.7/manual.html)
-- mtr 8.8.8.8
+- mtr - My TraceRoute, Console Alternative to Pingplot [Diagnosing Issues with MTR](https://www.linode.com/docs/networking/diagnostics/diagnosing-network-issues-with-mtr)
 - rancid
 - screen /dev/ttyS1 9200,cs8
 - wireshark - [User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
@@ -37,3 +37,9 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 - [Juniper Training](https://learningportal.juniper.net/juniper/user_courses.aspx)
 - [Linux Netowkring Howto](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
 - [Gentoo Networking Guide (replace emerge with your package manager :)](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
+
+##Config Management
+- [Chef Cisco Cookbook for NXOS](https://supermarket.chef.io/cookbooks/cisco-cookbook)
+- [JPupper for Junos/Puppet](https://downloads.puppetlabs.com/junos/2.0R1.1/)
+- [rConfig Open Source Netowrk Config Management](http://www.rconfig.com/)
+- 
