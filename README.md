@@ -17,6 +17,7 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 - sipcalc (subnet calc)
 - DiG DNS Tool [Beginner's Guide](https://www.madboa.com/geek/dig/)
 - [GNS3 Network Sim](http://www.gns3.com/)
+- [The Dude (Windows-only, free)](http://www.mikrotik.com/thedude)
 
 ##Online Tools
 - [DNS Stuff](http://www.dnsstuff.com/)
