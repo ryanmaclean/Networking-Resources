@@ -12,6 +12,7 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 
 ##Guides
 - [Guide to Port Forwarding with iptables from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-forward-ports-through-a-linux-gateway-with-iptables)
+- [Network Diagram 101](http://networkdiagram101.com/)
 
 ##Knowledge Bases
 - [Cisco](http://www.cisco.com/cisco/web/psa/reference.html)
@@ -36,9 +37,11 @@ A collections of (mostly) free tools. Where not specified, these will be free an
 
 ###Diagramming
 - [The Dude Network Mapper (Windows-only, free)](http://www.mikrotik.com/thedude)
-- [LucidChart (SaSS Fremium)](https://www.lucidchart.com/)
+- [LucidChart (SaSS Freemium)](https://www.lucidchart.com/)
 - [Visio (Windows, $$$, de facto standard unfortunately)](https://products.office.com/en-ca/visio/visio-professional-2013-free-trial-flowchart-software)
 - [yED (Free, Mac/Win/Linux)](http://www.yworks.com/en/products/yfiles/yed/)
+- [Gliffy (SaSS Freemium)](https://www.gliffy.com/)
+- [LibreOffice Draw VRT Stencils](http://www.vrt.com.au/downloads/vrt-network-equipment)
 
 ###Raw Traffic
 - wireshark - [User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
@@ -68,3 +71,9 @@ A collections of (mostly) free tools. Where not specified, these will be free an
 - [DNS Stuff](http://www.dnsstuff.com/)
 - [MX Toolbox](http://mxtoolbox.com/)
 - [DNS Propagation Checker](https://www.whatsmydns.net/)
+
+##Fun Stuff
+Who said networking couldn't be fun? Here are some links that will distract you but are network-related.
+- [Reddit Cable Fails](https://www.reddit.com/r/cablefail)
+- [Reddit Cable Porn](https://www.reddit.com/r/cableporn/)
+- 
