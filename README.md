@@ -78,4 +78,3 @@ A collections of (mostly) free tools. Where not specified, these will be free an
 Who said networking couldn't be fun? Here are some links that will distract you but are network-related.
 - [Reddit Cable Fails](https://www.reddit.com/r/cablefail)
 - [Reddit Cable Porn](https://www.reddit.com/r/cableporn/)
-- 
