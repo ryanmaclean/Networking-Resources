@@ -19,6 +19,9 @@ There's always the option of building your own router using an old computer and 
 ##Eumlate/Simulate It
 Sometimes it's difficult to do things like simulate (really emulation, but we'll leave the misnomer in place) packet loss and latency with one device. Luckily you can set up a router sim to make very complex networks quite easily. In the past I've used [GNS3](http://www.gns3.com/) for this task, but recently [CORE (from the US Navy, no less)](http://www.nrl.navy.mil/itd/ncs/products/core) and [IMUNES](http://imunes.net/) have made it onto the radar as well.
 
+##A Quick Note On Cabling
+If you end up in a datacenter, dealing with physical cables, you'll want to learn about cabling - It will make people who deal with your work later much more likely in either hiring you again or not blaming you for all manner of issues that might not even be related. To that end, APC (Schneider Electric) set up some free courses online that cover cabling. You'll need to register, but the deep link to the [free datacenter cabling course is here](http://energy.schneideruniversities.com/student.php?ctg=lessons&catalog=1&info_course=85).
+
 ##Knowledge Bases
 - [Cisco](http://www.cisco.com/cisco/web/psa/reference.html)
 - [Juniper](https://kb.juniper.net/InfoCenter/index?page=home)
