@@ -9,14 +9,14 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 - rancid
 - screen /dev/ttyS1 9200,cs8
 - wireshark - [User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
-- tcpdump
+- tcpdump - [SANS Institute TCP Dump Primer](https://www.giac.org/paper/gsec/3489/beginners-guide-tcpdump/105700)
 - nmap - [Nmap from Beginner to Advanced (InfoSec)](http://resources.infosecinstitute.com/nmap/)
 - nc/Netcat [Guide to Netcat from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections-on-a-vps), [Netcat cheet sheet](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
 - [Multiping / PingPlotter (OSX/iOS/Windows, not free)](https://www.pingman.com/products.html)
 - sipcalc (subnet calc)
 - DiG DNS Tool [Beginner's Guide](https://www.madboa.com/geek/dig/)
 - [GNS3 Network Sim](http://www.gns3.com/)
-- [The Dude (Windows-only, free)](http://www.mikrotik.com/thedude)
+- [The Dude Network Mapper (Windows-only, free)](http://www.mikrotik.com/thedude)
 
 ##Online Tools
 - [DNS Stuff](http://www.dnsstuff.com/)
