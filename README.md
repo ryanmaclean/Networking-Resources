@@ -15,7 +15,7 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 - nmap - [Nmap from Beginner to Advanced (InfoSec)](http://resources.infosecinstitute.com/nmap/)
 - nc/Netcat [Guide to Netcat from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections-on-a-vps), [Netcat cheet sheet](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
 - [Multiping / PingPlotter (OSX/iOS/Windows, not free)](https://www.pingman.com/products.html)
-- sipcalc (subnet calc)
+- sipcalc (subnet calc) - [Ubuntu Sipcalc Manpage](http://manpages.ubuntu.com/manpages/hardy/man1/sipcalc.1.html)
 - DiG DNS Tool [Beginner's Guide](https://www.madboa.com/geek/dig/)
 - [GNS3 Network Sim](http://www.gns3.com/)
 - [The Dude Network Mapper (Windows-only, free)](http://www.mikrotik.com/thedude)
