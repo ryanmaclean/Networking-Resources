@@ -44,8 +44,10 @@ A collections of (mostly) free tools. Where not specified, these will be free an
 - [LibreOffice Draw VRT Stencils](http://www.vrt.com.au/downloads/vrt-network-equipment)
 
 ###Raw Traffic
-- wireshark - [User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
-- tcpdump - [SANS Institute TCP Dump Primer](https://www.giac.org/paper/gsec/3489/beginners-guide-tcpdump/105700)
+- [wireshark](https://www.wireshark.org/) - [User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
+- [tcpdump](https://github.com/the-tcpdump-group/tcpdump) - [SANS Institute TCP Dump Primer](https://www.giac.org/paper/gsec/3489/beginners-guide-tcpdump/105700)
+- [ettercap](http://ettercap.github.io/ettercap/)
+- [kismet (wireless)](https://www.kismetwireless.net/)
 
 ###Web-Based Monitoring
 - [ntopng - Web-based Traffic Monitoring](https://github.com/ntop/ntopng)
