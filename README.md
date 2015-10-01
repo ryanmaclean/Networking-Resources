@@ -5,6 +5,8 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 
 ##Tools
 - iptraf - Command Line IP Traffic Monitor - [IPTraf User's Guide](http://iptraf.seul.org/2.7/manual.html)
+- [ntopng - Web-based Traffic Monitoring](https://github.com/ntop/ntopng)
+- [smokeping](https://oss.oetiker.ch/smokeping/index.en.html) - Web-based ping checker - [Ubuntu Install Guide (Sparse)](http://manpages.ubuntu.com/manpages/trusty/man7/smokeping_install.7.html)
 - mtr - My TraceRoute, Console Alternative to Pingplot [Diagnosing Issues with MTR](https://www.linode.com/docs/networking/diagnostics/diagnosing-network-issues-with-mtr)
 - rancid - Open Source Network Configuration Management [Howto: Network Backups with RANCID](http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch1_:_Network_Backups_With_Rancid)
 - screen - Useful for Serial Connections as Well!
