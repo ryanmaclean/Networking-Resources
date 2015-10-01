@@ -18,7 +18,8 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 ##Forums
 - [Cisco Support Forums](https://supportforums.cisco.com/)
 - [Riverbed Support Forums](https://supportkb.riverbed.com/support/index?page=browsecategory)
-- [Reddit Networking](
+- [Reddit Networking](https://www.reddit.com/r/networking)
+- [StackExchange Network Engineering](http://networkengineering.stackexchange.com/)
 
 ##Config Management
 - [Chef Cisco Cookbook for NXOS](https://supermarket.chef.io/cookbooks/cisco-cookbook)
