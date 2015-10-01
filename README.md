@@ -1,6 +1,14 @@
 # Networking-Resources
 Resources for those beginning networking. Made for the DevOps crowd but (hopefully) should really be useful for anyone.
 
+##Free Training
+- [The Free TCP/IP Book](http://www.tcpipguide.com/free/index.htm)
+- [MS Networking Essentials - totally worth while, honest!](https://www.microsoftvirtualacademy.com/en-us/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382)
+- [Juniper Training](https://learningportal.juniper.net/juniper/user_courses.aspx)
+- [Linux Netowkring Howto](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
+- [Gentoo Networking Guide (replace emerge with your package manager :)](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
+- [APC Datacenter University](http://energy.schneideruniversities.com/)
+
 ##Knowledge Bases
 - [Cisco](http://www.cisco.com/cisco/web/psa/reference.html)
 - [Juniper](https://kb.juniper.net/InfoCenter/index?page=home)
@@ -11,14 +19,6 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 - [Cisco Support Forums](https://supportforums.cisco.com/)
 - [Riverbed Support Forums](https://supportkb.riverbed.com/support/index?page=browsecategory)
 - [Reddit Networking](
-
-##Free Training
-- [The Free TCP/IP Book](http://www.tcpipguide.com/free/index.htm)
-- [MS Networking Essentials - totally worth while, honest!](https://www.microsoftvirtualacademy.com/en-us/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382)
-- [Juniper Training](https://learningportal.juniper.net/juniper/user_courses.aspx)
-- [Linux Netowkring Howto](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
-- [Gentoo Networking Guide (replace emerge with your package manager :)](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
-- [APC Datacenter University](http://energy.schneideruniversities.com/)
 
 ##Config Management
 - [Chef Cisco Cookbook for NXOS](https://supermarket.chef.io/cookbooks/cisco-cookbook)
