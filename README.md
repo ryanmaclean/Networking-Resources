@@ -11,7 +11,7 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 - wireshark - [User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
 - tcpdump
 - nmap
-- nc
+- nc/Netcat [Guide to Netcat from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections-on-a-vps), [Netcat cheet sheet](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
 - [Multiping / PingPlotter (OSX/iOS/Windows, not free)](https://www.pingman.com/products.html)
 - sipcalc (subnet calc)
 - DiG DNS Tool [Beginner's Guide](https://www.madboa.com/geek/dig/)
