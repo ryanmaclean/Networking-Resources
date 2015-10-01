@@ -19,21 +19,13 @@ There's always the option of building your own router using an old computer and 
 ##Eumlate/Simulate It
 Sometimes it's difficult to do things like simulate (really emulation, but we'll leave the misnomer in place) packet loss and latency with one device. Luckily you can set up a router sim to make very complex networks quite easily. In the past I've used [GNS3](http://www.gns3.com/) for this task, but recently [CORE (from the US Navy, no less)](http://www.nrl.navy.mil/itd/ncs/products/core) and [IMUNES](http://imunes.net/) have made it onto the radar as well.
 
-##Online Tools
-- [DNS Stuff](http://www.dnsstuff.com/)
-- [MX Toolbox](http://mxtoolbox.com/)
-- [DNS Propagation Checker](https://www.whatsmydns.net/)
-
-##Forums
-- [Arstechnica Networking](http://arstechnica.com/civis/viewforum.php?f=10&sid=23fb503736d39115efd931df2b863175)
- 
-
 ##Knowledge Bases
 - [Cisco](http://www.cisco.com/cisco/web/psa/reference.html)
 - [Juniper](https://kb.juniper.net/InfoCenter/index?page=home)
 - [Riverbed](https://supportkb.riverbed.com/support/index?page=home)
 
 ##Free Training
+- [The Free TCP/IP Book](http://www.tcpipguide.com/free/index.htm)
 - [MS Networking Essentials - totally worth while, honest!](https://www.microsoftvirtualacademy.com/en-us/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382)
 - [Juniper Training](https://learningportal.juniper.net/juniper/user_courses.aspx)
 - [Linux Netowkring Howto](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
@@ -61,3 +53,8 @@ Sometimes it's difficult to do things like simulate (really emulation, but we'll
 - DiG DNS Tool [Beginner's Guide](https://www.madboa.com/geek/dig/)
 - [GNS3 Network Sim](http://www.gns3.com/)
 - [The Dude Network Mapper (Windows-only, free)](http://www.mikrotik.com/thedude)
+
+##Online DNS Troubleshooting Tools
+- [DNS Stuff](http://www.dnsstuff.com/)
+- [MX Toolbox](http://mxtoolbox.com/)
+- [DNS Propagation Checker](https://www.whatsmydns.net/)
