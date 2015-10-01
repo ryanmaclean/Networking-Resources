@@ -24,7 +24,7 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 
 ##Forums
 - [Arstechnica Networking](http://arstechnica.com/civis/viewforum.php?f=10&sid=23fb503736d39115efd931df2b863175)
-- 
+ 
 
 ##Knowledge Bases
 - [Cisco](http://www.cisco.com/cisco/web/psa/reference.html)
