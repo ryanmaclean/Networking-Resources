@@ -1,4 +1,4 @@
-# Networking-Reources
+# Networking-Resources
 Resources for those beginning networking. Made for the DevOps crowd but (hopefully) should really be useful for anyone.
 
 #Networking
