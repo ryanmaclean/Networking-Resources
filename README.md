@@ -12,8 +12,7 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 - tcpdump
 - nmap
 - nc
-- multiping
-- PingPlotter (OSX/iOS/Windows, not free)
+- [Multiping / PingPlotter (OSX/iOS/Windows, not free)](https://www.pingman.com/products.html)
 - sipcalc (subnet calc)
 - DiG DNS Tool [Beginner's Guide](https://www.madboa.com/geek/dig/)
 - [GNS3 Network Sim](http://www.gns3.com/)
