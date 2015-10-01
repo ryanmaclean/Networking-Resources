@@ -2,7 +2,7 @@
 Resources for those beginning networking. Made for the DevOps crowd but (hopefully) should really be useful for anyone.
 
 ##Where to Start
-I honestly think the best place to start would be to buy a new router/switch/firewall combo, install DD-WRT on it and place it between yourself and the internet. I'm sure you can think of a powerful motivator that will force you to learn how to set it up properly before you get any access going. Things like: Netflix, Gmail, Twitter, heck maybe even something like Grindr :)
+I honestly think the best place to start would be to buy a new router/switch/firewall combo, install DD-WRT on it and place it between yourself and the internet. There are loads of free resources, but if you're like me, unless it's really important, you'll put it off. I'm incredibly talented when it comes to purchasing ebooks and training videos, but not always that great at reading and watching them. Once you have an unconfigured device, I'm sure you can think of a powerful motivator that will force you to learn how to set it up properly before you get any access going. Things like: Netflix, Gmail, Twitter, heck maybe even something like Grindr :)
 
 To that end, I'm going to list a few things that I've done in the past that helped me, but expect to get suggestions as to other ways of aquiring cheap or free hardware to get you going. 
 
@@ -11,6 +11,7 @@ To that end, I'm going to list a few things that I've done in the past that help
 - Whatever operating system you run probably has some sort of networking. Plan-9, AIX, Commodore64, you're good to go. Many of the tools listed below might be OS-specific, but there are almost always alternatives or tools that provide the same functionality. That being said, I will focus primarily on Linux, then MacOS, then Windows in that order. Unless mentioned, assume the tool is for Linux.  
 
 ##Cheap Device
+Don't overthink it - get something cheap and easy, you can always upgrade later. 
 D-Link DIR-300 - this can be had at a local Staples for about $28 last I checked. If not, have a look at the [DD-WRT list or supported devices](http://www.dd-wrt.com/wiki/index.php/Supported_Devices#D-Link) and find one you can source locally for about $30 
 
 ##Build Your Own
