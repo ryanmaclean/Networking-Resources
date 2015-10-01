@@ -1,8 +1,6 @@
 # Networking-Resources
 Resources for those beginning networking. Made for the DevOps crowd but (hopefully) should really be useful for anyone.
 
-#Networking
-
 ##Tools
 - iptraf - Command Line IP Traffic Monitor - [IPTraf User's Guide](http://iptraf.seul.org/2.7/manual.html)
 - [ntopng - Web-based Traffic Monitoring](https://github.com/ntop/ntopng)
