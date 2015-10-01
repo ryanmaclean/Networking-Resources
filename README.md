@@ -8,7 +8,7 @@ Resources for those beginning networking. Made for the DevOps crowd but (hopeful
 - mtr 8.8.8.8
 - rancid
 - screen /dev/ttyS1 9200,cs8
-- wireshark
+- wireshark - [User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
 - tcpdump
 - nmap
 - nc
