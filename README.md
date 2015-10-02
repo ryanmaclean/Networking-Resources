@@ -1,11 +1,13 @@
 # Networking-Resources
 Resources for those beginning networking. Made for the DevOps crowd but (hopefully) should really be useful for anyone.
 
+Please feel free pull request!
+
 ##Free Training
 - [The Free TCP/IP Book](http://www.tcpipguide.com/free/index.htm)
 - [MS Networking Essentials - totally worth while, honest!](https://www.microsoftvirtualacademy.com/en-us/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382)
 - [Juniper Training](https://learningportal.juniper.net/juniper/user_courses.aspx)
-- [Linux Netowkring Howto](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
+- [Linux Networking Howto](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
 - [Gentoo Networking Guide](http://www.tldp.org/HOWTO/NET3-4-HOWTO.html)
 - [APC Datacenter University](http://energy.schneideruniversities.com/)
 - [Ops School Networking 101](http://www.opsschool.org/en/latest/networking_101.html)
