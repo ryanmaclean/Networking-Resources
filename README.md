@@ -61,6 +61,7 @@ A collections of (mostly) free tools. Where not specified, these will be free an
 ###Troubleshooting Connecivity/Speed
 - iptraf - Command Line IP Traffic Monitor - [IPTraf User's Guide](http://iptraf.seul.org/2.7/manual.html)
 - mtr - My TraceRoute, Console Alternative to Pingplot [Diagnosing Issues with MTR](https://www.linode.com/docs/networking/diagnostics/diagnosing-network-issues-with-mtr)
+- LFT - Layer Four Traceroute - [LFT Intro](http://pwhois.org/lft/)
 - DiG DNS Tool [Beginner's Guide](https://www.madboa.com/geek/dig/)
 - nmap - [Nmap from Beginner to Advanced (InfoSec)](http://resources.infosecinstitute.com/nmap/)
 - nc/Netcat [Guide to Netcat from Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-netcat-to-establish-and-test-tcp-and-udp-connections-on-a-vps), [Netcat cheet sheet](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
