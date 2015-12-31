@@ -1,7 +1,7 @@
 # Networking-Resources
 Resources for those beginning networking. Made for the DevOps crowd but (hopefully) should really be useful for anyone.
 
-Please feel free pull request!
+Please feel free to submit pull requests!
 
 ##Free Training
 - [The Free TCP/IP Book](http://www.tcpipguide.com/free/index.htm)
